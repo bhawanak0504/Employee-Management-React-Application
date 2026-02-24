@@ -115,7 +115,7 @@ https://github.com/bhawanak0504/Employee-Management-React-Application
 
 # 1. Navigate into the folder:
 ```bash
-cd REPOSITORY_NAME
+cd Employee-Management-React-Application
 ```
 # 2. Install dependencies:
 ```bash
